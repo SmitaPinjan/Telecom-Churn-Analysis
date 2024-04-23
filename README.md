@@ -111,6 +111,6 @@ Based on the analysis, I recommend the following actions:
 |Heading1|Heading2|
 |--------|--------|
 |Content |Content2|
-|Data Analysis| PowerBI|
+|Data Analysis| Python|
 |Visual Analysis| Tableau|
 
