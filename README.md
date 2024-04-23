@@ -75,24 +75,24 @@ To Summarize:
 -	Customers who are comfortable using online payment methods are more likely to churn. 
 
 Detailed analysis results are summarized below:
--	Demographic Segmentation
+Demographic Segmentation
 - The company had 7043 unique customer records. Churned customers count was 1869 (27%) and loyal customers were 5174 (73%).
 - A 27% Churn rate is a very bad rate and can make the company go bankrupt.
 - Interestingly, the young or non-elderly customers had a 75% churn rate compared to elderly customers who left the company.
 - Gender did not impact the churn rate.
 - Recent customers have had a high churn rate ranging from 20-41% with a tenure of 1-6 months. Indicating that recent customers are more prone to leave the company within a few months. 
 - Customers living with their partners or dependents are less likely to churn than compare to those who are living alone (60% churn rate)
--	Service Usage pattern 
+Service Usage pattern 
 - Customers with just a “Phone service” had the highest churn rate of 91%.
 - Customers with muli-line service are less likely to churn especially customers having ‘Online Security’, ‘Tech Support’, and ‘Online Behaviour’. However, customers having ’Streaming TV’ and ‘Streaming Movies’ had a 44% churn rate.
 - Interestingly, Customers having Fibre Optic Internet had the highest (69%) churn rate compared to those slow network services like DLS.
--	Monthly charges, Contract, Payment, and Billing Method 
+Monthly charges, Contract, Payment, and Billing Method 
 - Customers having monthly charges of 75 or more are more prone to churn. 
 - Customers who had total charges pending up to 3,000 shown high churn rate than those with high total charges.
 - Customers with short-term contracts like ‘Month-to-month’ had higher churn behaviour than long-term contracts.
 - Customers who pay using online portals had a high churn rate especially those who pay bills using ‘Electronic checks’.
 - Surprisingly, customers who pay using ‘Mailed checks’ had fewer monthly charges, low tenure, and a 16% churn rate.
--  Customers who opted for paperless billing had shown more trends of leaving the company.
+- Customers who opted for paperless billing had shown more trends of leaving the company.
 
 ### Recommendations
 
