@@ -2,6 +2,8 @@
 
 Analysis of Telecom customer's data using the Python and Tableau tool
 
+![Telecom Churn 1](https://github.com/SmitaPinjan/Telecom-Churn-Analysis/assets/152721562/d4a6039a-59e5-4b1f-bb6e-8f8b59d42573)
+
 ### Table of Contents
 
 - [Project Overview](#project-overview)
